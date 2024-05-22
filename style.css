@@ -1,0 +1,62 @@
+*{
+    background-color: blanchedalmond;
+}
+
+.titulo{
+    padding: 20px;
+    text-align:center;
+    font-size: 25px;
+}
+
+
+.imagen{
+    border-radius: 25px;
+    width: 600px;
+    height: 350px;
+    display: block;
+    margin: auto;
+}
+
+.parrafo{
+    padding:10px;
+   text-align:center;
+    
+}
+
+p {
+    font-size: 15px;
+    font-size: 1.5 rem;    
+    line-height: 1.333333334;
+    margin-bottom: 20px;
+    margin-bottom: 2rem;
+    text-align: justify;
+}
+
+
+.container{
+    
+    margin-top: auto;
+    display: block;
+    margin: auto; /* el margin auto va si o si con display block ,porque es con los bloques que funciona y sive para poner 
+    en el centro , en cambio si hay un elemento en linea tenemos que usar text aline center osea que hay que mirar con que estamos
+    jugando si con un bloque o con una linea */
+    width: 600px;
+    
+    
+   
+    
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
